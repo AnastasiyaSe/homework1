@@ -1,6 +1,4 @@
-# with open(r"C:\Users\Анастасия\PycharmProjects\netology\venv\file.txt", "r") as f:
-#    lines = f.readlines()
-#    print(lines)
+
 
 import hashlib
 def gen(path):
